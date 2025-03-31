@@ -12,7 +12,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Function to load and preprocess dataset
-def load_and_preprocess_data(file_path="synthetic_fraud_dataset.csv")
+def load_and_preprocess_data(file_path="synthetic_fraud_dataset.csv"):
     df = pd.read_csv(file_path)
     
     # Categorical and numerical column selection
