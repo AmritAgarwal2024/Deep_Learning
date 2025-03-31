@@ -185,7 +185,7 @@ The graph shows a strong correlation between the predicted Nifty 50 index values
 - Potential for predictive advantage using Tata Steel's movements
 - Short-term volatility divergence
 
-  ## 8. Project Statistics
+## 8. Project Statistics
 
 **Dataset:** Historical closing prices of Nifty 50 and Tata Steel  
 
